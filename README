@@ -1,0 +1,11 @@
+portainer Makefile
+==================
+
+
+a basic Makefile to create, start, and stop Portainer on docker.
+
+user is `obi` ... just in case
+
+### TODO
+
+create shell verbosely name shell scripts to run Makefile commands
